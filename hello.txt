@@ -1,1 +1,2 @@
 pritn(1)
+print('asdf')
